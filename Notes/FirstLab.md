@@ -1,41 +1,51 @@
-Terms I learn:
+# Day 1 & 2 - CCNA Notes
 
-Client = Request services from a server
-Server = Provides services to clients
-Switch = Connect devices in same network (LAN)
-Router = Connects different networks together
-Endpoint/Host = End user device (PC,laptop,phone)
-Firewall = Filters and controls network traffic
-IDS (Intrusion Detection System) Detects and alerts suspicious activity
-IPS (Intrustion Prevention System) Detects and blocks suspicious activity
-Protocol = communication rules
+## Terms I Learned
 
-From  first CCNA lab:
+- Client = Requests services from a server
+- Server = Provides services to clients
+- Switch = Connects devices in same network (LAN)
+- Router = Connects different networks together
+- Endpoint/Host = End user device (PC, laptop, phone)
+- Firewall = Filters and controls network traffic
+- IDS (Intrusion Detection System) = Detects and alerts suspicious activity
+- IPS (Intrusion Prevention System) = Detects and blocks suspicious activity
+- Protocol = Communication rules
 
-Same room & Same building use Copper cable
-Different buildings &  Different cities use Fiber cable
+## Cable Types
 
-Cables: Straight-through = Different devices 
-Crossover = Same devices 
-Short distance = Copper
-Long distance = Fiber
+- Straight-through = Different devices (PC → Switch)
+- Crossover = Same devices (Switch → Switch)
+- Copper = Short distance
+- Fiber = Long distance
 
-10BASE-T= 10 Mbps (old Ethernet)
-100BASE-T = 100 Mbps (Fast Ethernet)
-1,000BASE-T = 1 Gbps (Gigabit Ethernet)
-10GBASE-T = 10 Gbps (10 Gigabit Ethernet)
+## When To Use Each Cable
 
-RJ-45 (Regisered Jack-45) = Ethernet Plug
-UTP (Unshielded Twisted Pair) = normal Ethernet cable
-Straight through cable = connect different devices (PC -> Switch)
-Crossover cable = connect same devices (switch -> switch)
-Fiber-optic cable = uses light, faster, longer distance
+- Same room & same building = Copper
+- Different buildings & different cities = Fiber
+- Use fiber when distance is over 100 meters
+- Copper stops working after 100 meters
+- Fiber uses light instead of electricity so it can travel much further
 
-Distance:
-Copper = 100 meter max
-Multimode = short-distance fiber type (hundreds of meters up to 550 meters)
-Single mode = long-distance fiber type (kilometers)
+## Ethernet Standards
 
-Other notes:
-Use fiber optics when the distance is over 100 meters.Since it uses light instead of electricity. Light can travel for miles and electricity in copper cables stops working after 100 meters.
-Ethernet: a standard way devices in a local network (like a home or office) send data to each other using cables
+- 10BASE-T = 10 Mbps (old Ethernet)
+- 100BASE-T = 100 Mbps (Fast Ethernet)
+- 1,000BASE-T = 1 Gbps (Gigabit Ethernet)
+- 10GBASE-T = 10 Gbps (10 Gigabit Ethernet)
+
+## Connectors
+
+- RJ-45 (Registered Jack-45) = Ethernet plug
+- UTP (Unshielded Twisted Pair) = Normal Ethernet cable
+
+## Distance Limits
+
+- Copper = 100 meter max
+- Multimode Fiber = Short distance fiber (up to 550 meters)
+- Single Mode Fiber = Long distance fiber (kilometers)
+
+## What is Ethernet
+
+- Ethernet is a standard way devices in a local network
+  (like a home or office) send data to each other using cables
