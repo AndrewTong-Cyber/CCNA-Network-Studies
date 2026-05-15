@@ -15,5 +15,10 @@ and show what I am learning.
 Jeremy's IT Lab Playlist:
 https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
 
+## Notes
+All my notes are in the Notes folder. These are the key 
+concepts and definitions I learned from each lesson as I 
+work through the course.
+
 ## Labs
 All lab files and descriptions are in the Labs folder.
