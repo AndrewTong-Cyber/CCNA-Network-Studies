@@ -29,10 +29,12 @@
 
 ## Ethernet Standards
 
-- 10BASE-T = 10 Mbps (old Ethernet)
-- 100BASE-T = 100 Mbps (Fast Ethernet)
-- 1,000BASE-T = 1 Gbps (Gigabit Ethernet)
-- 10GBASE-T = 10 Gbps (10 Gigabit Ethernet)
+| BASE-T Standard | Short Name | Speed |
+|---|---|---|
+| 10BASE-T | - | 10 Mbps (old Ethernet) |
+| 100BASE-T | FastEthernet (Fa) | 100 Mbps |
+| 1000BASE-T | GigabitEthernet (Gi) | 1 Gbps |
+| 10GBASE-T | TenGigabitEthernet (Te) | 10 Gbps |
 
 ## Connectors
 
