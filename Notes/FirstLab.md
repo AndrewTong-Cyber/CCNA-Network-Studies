@@ -19,11 +19,14 @@
 - Copper = Short distance
 - Fiber = Long distance
 
+## Side Note for Cable
+Auto-MDIX = feature that automatically detects and adjusts Ethernet cable type (straight-through or crossover) so devices can connect without manual cable selection
+
 ## When To Use Each Cable
 
-- Same room & same building = Copper
+- Same room & same building = Copper (Ethernet)
 - Different buildings & different cities = Fiber
-- Use fiber when distance is over 100 meters
+- Use Fiber when distance is over 100 meters
 - Copper stops working after 100 meters
 - Fiber uses light instead of electricity so it can travel much further
 
@@ -42,10 +45,9 @@
 - UTP (Unshielded Twisted Pair) = Normal Ethernet cable
 
 ## Distance Limits
-
-- Copper = 100 meter max
-- Multimode Fiber = Short distance fiber (up to 550 meters)
-- Single Mode Fiber = Long distance fiber (kilometers)
+- Copper = Ethernet (twisted pair, up to 100m)
+- Multimode Fiber = Ethernet over fiber (up to ~550m)
+- Single-mode Fiber = Ethernet over fiber (kilometers)
 
 ## What is Ethernet
 
