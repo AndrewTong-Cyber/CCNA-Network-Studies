@@ -49,5 +49,4 @@
 
 ## What is Ethernet
 
-- Ethernet is a standard way devices in a local network
-  (like a home or office) send data to each other using cables
+- Ethernet is a network protocol for wired connections
