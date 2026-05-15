@@ -16,7 +16,7 @@
 
 - Straight-through = Different devices (PC → Switch)
 - Crossover = Same devices (Switch → Switch)
-- Copper = Short distance
+- Copper (Ethernet) = Short distance
 - Fiber = Long distance
 
 ## Side Note for Cable
@@ -46,8 +46,9 @@ Auto-MDIX = feature that automatically detects and adjusts Ethernet cable type (
 
 ## Distance Limits
 - Copper = Ethernet (twisted pair, up to 100m)
-- Multimode Fiber = Ethernet over fiber (up to ~550m)
-- Single-mode Fiber = Ethernet over fiber (kilometers)
+- Multimode Fiber = Ethernet over Fiber (up to ~550m)
+- Single-mode Fiber = Ethernet over Fiber (kilometers)
+Ethernet over Fiber = (Internet/network data traveling through light-based cables)
 
 ## What is Ethernet
 
