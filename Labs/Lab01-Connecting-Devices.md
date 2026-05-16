@@ -15,3 +15,6 @@ single mode and multimode fiber depending on the distance.
 I did not configure the inside of any devices yet as this 
 lab was focused on getting comfortable with Packet Tracer 
 for the first time.
+
+
+<img width="703" height="381" alt="Screenshot 2026-05-15 at 10 20 06 PM" src="https://github.com/user-attachments/assets/84209c74-8f97-4250-a285-b2acc34367cf" />
