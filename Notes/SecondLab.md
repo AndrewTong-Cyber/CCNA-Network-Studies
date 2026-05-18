@@ -13,7 +13,7 @@
 **Memory trick:**
 > All People Seem To Need Data Processing
 
-## OSI Layers — What Each One Does
+## TCP/IP Model — What Each Layer Does
 
 | Layer | Name | What it does |
 |---|---|---|
