@@ -1,5 +1,3 @@
-# Day 1 & 2 - CCNA Notes
-
 ## Terms I Learned
 
 - Client = Requests services from a server
