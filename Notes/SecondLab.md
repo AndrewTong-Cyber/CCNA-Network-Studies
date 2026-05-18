@@ -22,25 +22,11 @@
 | Internet | IP addressing and routing | IP |
 | Link | Physical connection and MAC addresses | Ethernet, WiFi |
 
-TCP (Transmission Control Protocol)
-= Reliable, slower, makes sure all data arrives correctly
-= Used when accuracy matters (web browsing, email, file transfers)
-
-UDP (User Datagram Protocol)
-= Fast, less reliable, does not check if data arrives
-= Used when speed matters more (video streaming, gaming, voice calls)
-
-HTTP (Hypertext Transfer Protocol)
-= The protocol used to load websites
-= When you visit a website your browser uses HTTP
-
-DNS (Domain Name System)
-= Translates website names to IP addresses
-= When you type google.com DNS finds the IP address for it
-
-FTP (File Transfer Protocol)
-= Used to transfer files between computers over a network
-= Like sending files from your computer to a server
+TCP (Transmission Control Protocol) = Reliable, checks all data arrives (web, email, files)
+UDP (User Datagram Protocol) = Fast, does not check if data arrives (streaming, gaming)
+HTTP (Hypertext Transfer Protocol) = Protocol that loads websites
+DNS (Domain Name System) = Translates website names to IP addresses
+FTP (File Transfer Protocol) = Transfers files between computers over a network
 
 ## PDU Names (Protocol Data Unit)
 
