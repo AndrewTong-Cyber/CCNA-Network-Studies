@@ -30,6 +30,18 @@ UDP (User Datagram Protocol)
 = Fast, less reliable, does not check if data arrives
 = Used when speed matters more (video streaming, gaming, voice calls)
 
+HTTP (Hypertext Transfer Protocol)
+= The protocol used to load websites
+= When you visit a website your browser uses HTTP
+
+DNS (Domain Name System)
+= Translates website names to IP addresses
+= When you type google.com DNS finds the IP address for it
+
+FTP (File Transfer Protocol)
+= Used to transfer files between computers over a network
+= Like sending files from your computer to a server
+
 ## PDU Names (Power distribution unit)
 
 | Layer | PDU Name |
