@@ -42,7 +42,7 @@ FTP (File Transfer Protocol)
 = Used to transfer files between computers over a network
 = Like sending files from your computer to a server
 
-## PDU Names (Power distribution unit)
+## PDU Names (Protocol Data Unit)
 
 | Layer | PDU Name |
 |---|---|
@@ -53,13 +53,11 @@ FTP (File Transfer Protocol)
 
 PDUs are used every time data travels across a network
 
-## MAC Address
+## MAC Address (Media Access Control)
 
-- Physical address burned into every device
+- Permanent physical ID burned into every device
 - Never changes unlike IP addresses
-- 6 bytes / 48 bits long
-- First 3 bytes = company who made it (OUI)
-- Last 3 bytes = unique to that specific device
+- Used to identify and send data between devices on a local network like LAN
 - Example: AA:BB:CC:DD:EE:FF
 
 ## Ethernet Frame
@@ -79,8 +77,7 @@ PDUs are used every time data travels across a network
 
 ## ARP (Address Resolution Protocol)
 
-- ARP finds the MAC address of a known IP address
-- Used when a device knows the IP but not the MAC
+I know where you live (IP) but I don't know your name (MAC) yet
 
 | Message | Type | What it does |
 |---|---|---|
@@ -89,10 +86,10 @@ PDUs are used every time data travels across a network
 
 ## MAC Address Table
 
-- Switch keeps a table of which MAC address is on which port
-- When a frame arrives switch learns where that device is
-- Next time it knows exactly where to send data
-- If destination is unknown switch floods all ports
+- A table inside a switch that maps MAC addresses to ports
+- Switch learns MAC addresses automatically as devices send data
+- If destination MAC is known = sends directly to that port
+- If destination MAC is unknown = floods all ports
 
 ## Ping
 
