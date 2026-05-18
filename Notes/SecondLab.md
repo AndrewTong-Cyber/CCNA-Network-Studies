@@ -13,14 +13,14 @@
 **Memory trick:**
 > All People Seem To Need Data Processing
 
-## TCP/IP Model — What Each Layer Does
+## TCP/IP Model
 
-| Layer | Name | What it does |
+| TCP/IP Layer | What it does | Example |
 |---|---|---|
-| L1 | Physical | Sends raw bits as electrical or radio signals |
-| L2 | Data Link | Device to device communication using MAC addresses |
-| L3 | Network | IP addressing and routing between networks |
-| L4 | Transport | Delivers data reliably (TCP/UDP) |
+| Application | What the user sees | HTTP, DNS, FTP |
+| Transport | Delivers data reliably | TCP, UDP |
+| Internet | IP addressing and routing | IP |
+| Link | Physical connection and MAC addresses | Ethernet, WiFi |
 
 TCP (Transmission Control Protocol)
 = Reliable, slower, makes sure all data arrives correctly
