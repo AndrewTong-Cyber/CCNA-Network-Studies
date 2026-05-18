@@ -22,11 +22,20 @@
 | Internet | IP addressing and routing | IP |
 | Link | Physical connection and MAC addresses | Ethernet, WiFi |
 
-TCP (Transmission Control Protocol) = Reliable, checks all data arrives (web, email, files)
-UDP (User Datagram Protocol) = Fast, does not check if data arrives (streaming, gaming)
-HTTP (Hypertext Transfer Protocol) = Protocol that loads websites
-DNS (Domain Name System) = Translates website names to IP addresses
-FTP (File Transfer Protocol) = Transfers files between computers over a network
+TCP (Transmission Control Protocol)
+= Reliable, checks all data arrives (web, email, files)
+
+UDP (User Datagram Protocol)
+= Fast, does not check if data arrives (streaming, gaming)
+
+HTTP (Hypertext Transfer Protocol)
+= Protocol that loads websites
+
+DNS (Domain Name System)
+= Translates website names to IP addresses
+
+FTP (File Transfer Protocol)
+= Transfers files between computers over a network
 
 ## PDU Names (Protocol Data Unit)
 
