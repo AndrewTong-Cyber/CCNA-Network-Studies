@@ -30,7 +30,7 @@ UDP (User Datagram Protocol)
 = Fast, less reliable, does not check if data arrives
 = Used when speed matters more (video streaming, gaming, voice calls)
 
-## PDU Names
+## PDU Names (Power distribution unit)
 
 | Layer | PDU Name |
 |---|---|
@@ -38,6 +38,8 @@ UDP (User Datagram Protocol)
 | L3 | Packet |
 | L2 | Frame |
 | L1 | Bit |
+
+PDUs are used every time data travels across a network
 
 ## MAC Address
 
