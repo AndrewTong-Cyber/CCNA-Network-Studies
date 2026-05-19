@@ -3,7 +3,7 @@
 **Topics:** MAC address tables, ARP, Ping, 
 Unicast vs Broadcast, Switch learning process
 
-**File:** Day6-Ethernet-Switching-Lab.pkt
+**File:** Lab_02.pkt
 
 **What I did:** Built a network with 2 switches and 
 4 PCs. Used ping to generate traffic and watched 
@@ -14,10 +14,14 @@ using CLI commands on switches for the first time.
 
 ## Screenshots
 
-**ping-pc1-to-pc3** — PC1 pinged PC3 successfully (0% loss)
+**PC1 pinged PC3 successfully (0% loss)**
+<img width="795" height="459" alt="ping-pc1-to-pc3" src="https://github.com/user-attachments/assets/2da1d6ba-5664-4059-b5b9-276458abde54" />
 
-**ping-pc2-to-pc4** — PC2 pinged PC4 successfully (0% loss)
+**PC2 pinged PC4 successfully (0% loss)**
+<img width="646" height="426" alt="ping-pc2-to-pc4" src="https://github.com/user-attachments/assets/d844ae23-0c29-471e-b13e-fde77f892d00" />
 
-**sw1-mac-table** — SW1 MAC address table populated with 4 devices
+**SW1 MAC address table populated with 4 devices**
+<img width="934" height="426" alt="sw1-mac-table" src="https://github.com/user-attachments/assets/1ac87bae-7b43-413a-b0b3-d3babd84c6d6" />
 
-**sw2-mac-table** — SW2 MAC address table populated with 2 devices
+**SW2 MAC address table populated with 2 devices**
+<img width="934" height="426" alt="sw2-mac-table" src="https://github.com/user-attachments/assets/5eec02e9-3aa0-4112-a5ad-eccf36144869" />
